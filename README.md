@@ -1,3 +1,4 @@
+
 Stock Market Prediction Project
 
 
@@ -14,6 +15,7 @@ Algorithms Used
 Supervised Learning
 
 Linear Regression: Linear Regression was chosen to predict the Close prices of stocks based on features such as volume, open price, and others.
+![Ekran görüntüsü 2024-09-19 195657](https://github.com/user-attachments/assets/fe8b9801-fa68-4dae-b18b-5132bb03897b)
 
 Evaluation: I used metrics like Mean Squared Error (MSE) and Mean Absolute Error (MAE) to assess the model’s performance.
 
