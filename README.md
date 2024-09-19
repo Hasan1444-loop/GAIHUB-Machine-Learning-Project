@@ -47,6 +47,8 @@ The supervised model demonstrated strong predictive power, making it more suitab
 The unsupervised K-Means algorithm worked well in clustering but might not capture complex patterns for a time-series-based stock dataset as effectively as supervised methods.
 This showcases that the dataset is better suited for predictive tasks (supervised learning) than for clustering (unsupervised learning).
 
+Through this project, I gained foundational knowledge in machine learning and became proficient in using essential libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. I learned how to implement both supervised and unsupervised learning algorithms on a dataset and understood their key differences. Additionally, I frequently used large language models (LLMs) like ChatGPT throughout the project, which improved my ability to craft effective prompts and ask the right questions. Overall, this experience has provided me with a solid foundation for future machine-learning projects
+
 Link to Kaggle Notebook
 
 You can find the full project and code implementation on Kaggle: [Kaggle Notebook Link](https://www.kaggle.com/code/hasan1000/gaih-mlproject)
