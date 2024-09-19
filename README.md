@@ -29,10 +29,15 @@ These values indicate that the Linear Regression model performs fairly well with
 Unsupervised Learning
 
 K-Means Clustering: K-Means was employed to group stocks into different clusters based on feature similarity.
+![Ekran görüntüsü 2024-09-19 200049](https://github.com/user-attachments/assets/33078fff-379f-4250-9531-ab545f33b4a3)
+
 
 I used Principal Component Analysis (PCA) to reduce dimensionality before applying K-Means.
+![Ekran görüntüsü 2024-09-19 200307](https://github.com/user-attachments/assets/9c6600c5-7e38-4232-a858-8fb48a04b10d)
+
 
 The Elbow Method helped determine the optimal number of clusters (3 in this case).
+![Ekran görüntüsü 2024-09-19 200213](https://github.com/user-attachments/assets/29e2f1ae-381c-4f82-b99f-61b87bf1de39)
 
 Final Results
 
